@@ -4,10 +4,12 @@ date: 2022-01-20 00:00
 tags:
   - podcast
   - podcast season 1
+social_image: "/media/rocket.jpg"
 description: У цьому випуску ми спробуємо розібратися як змінився світ з
   приходом YouTube. Розповімо вам цікаві факти про платформу і пофантазуємо про
   те яке майбутнє чекає на цей сервіс.
 ---
+
 ## Вступ
 
 Це перша стаття в підтримку нашого подкасту, тому якщо хочете дізнатись більше цікавого про те як світ прийняв YouTube і як той самий YouTube впливув на нього, тоді ось тут посилання на подкаст. А для тих хто вже прослухав наш подкаст, можете переглянути відео які ми згадували в подкасті.
@@ -27,7 +29,7 @@ description: У цьому випуску ми спробуємо розібра
 
 1. Найпопулярніше відео на платформі це Baby Shark, а загалом в топ 20 здебільшого входить дитячий контент і музичні кліпи, що і спричинило подальшу появу Ютуб фор кідс і Ютуб м'юзік. <iframe width="560" height="315" src="https://www.youtube.com/embed/XqZsoesa55w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 2. Одним з найбільш дизлайкуваних музичних відео на платформі є Baby - Justin Biber <iframe width="560" height="315" src="https://www.youtube.com/embed/kffacxfA7G4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-3. На українському полі Ютубу найпопулярніше відео це кліп на пісню Open Kids ft. Quest Pistols Show - Круче всех. Їх кількість переглядів вже перевалила за 443 мільйони, що для 44-мільйонної країни вже чимало. <iframe width="560" height="315" src="https://youtu.be/eCkBdziK5RM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+3. На українському полі Ютубу найпопулярніше відео це кліп на пісню Open Kids ft. Quest Pistols Show - Круче всех. Їх кількість переглядів вже перевалила за 443 мільйони, що для 44-мільйонної країни вже чимало. <iframe width="560" height="315" src="https://www.youtube.com/embed/eCkBdziK5RM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 4. Gangnam Style був першим відео який досяг в позначки 1 мільярд переглядів, але думаю не так багато знають, що Авріл Лавінь була першою, яка отримала на своєму відео 100 мільйонів переглядів в 2008 році на пісню Girlfriend. <iframe width="560" height="315" src="https://www.youtube.com/embed/Bg59q4puhmg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 5. Щоб передивитись весь Ютуб потрібно 57 000 років і з кожною хвилиною кількість відео зрастає. Так-от, якщо порахувати, що середня тривалість відео на платформі це 4 хв і 20 секунд, а знаходиться там 7 мілйонів відео, то у підрахунку виходить, що щоб подивитись увесь залитий контент потрібно 30 трильйонів хвилин, або 57 тис. років.
 
