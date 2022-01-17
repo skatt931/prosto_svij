@@ -4,7 +4,7 @@ date: 2022-01-20 00:00
 tags:
   - podcast
   - podcast season 1
-social_image: "/media/rocket.jpg"
+social_image: /media/screenshot-2021-12-23-at-12.11.53.png
 description: У цьому випуску ми спробуємо розібратися як змінився світ з
   приходом YouTube. Розповімо вам цікаві факти про платформу і пофантазуємо про
   те яке майбутнє чекає на цей сервіс.
