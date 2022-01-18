@@ -12,9 +12,9 @@ template: index-template
 </br>
 </br>
 
-**Просто Свій подкаст** пропонує вам дізнатися як наш світ змінюється щодня. 
+**Просто Свій подкаст** - це про те як наш світ змінюється щодня. 
 
-Спробуємо розібратися куди ми йдемо, з чим і як живемо, що ми знаємо і що нас чекає попереду.
+Спробуємо розібратися куди ми йдемо, з чим і як живемо, що знаємо і що нас чекає попереду.
 </br>
 </br>
 
@@ -32,7 +32,7 @@ template: index-template
 
 [![Listen us on soundcloud](../../static/media/google-podcast.svg "Listen us on google podcast")](https://podcasts.google.com/)[![Listen us on soundcloud](../../static/media/soundCloud.svg "Listen us on soundcloud")](http://soundcloud.com/)
 
-<!-- \\\[Наші випуски](/blog) -->
+<!-- \\\\[Наші випуски](/blog) -->
 
 </br>
 
