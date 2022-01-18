@@ -1,5 +1,5 @@
 ---
-title: Історя і цікаві факти про YouTube
+title: Історія і цікаві факти про YouTube
 date: 2022-01-20 00:00
 tags:
   - podcast
