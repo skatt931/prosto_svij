@@ -2,7 +2,7 @@
 title: Contact Me
 template: contact-template
 ---
-# Залишаймося на зв'язку.
+# Ми поруч
 
 </br>
 
