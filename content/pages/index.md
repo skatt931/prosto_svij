@@ -19,7 +19,7 @@ template: index-template
 </br>
 </br>
 
-Слухайте нас на:
+**Слухайте нас:**
 
 </br>
 
@@ -29,13 +29,11 @@ template: index-template
 
 [![Listen us on soundcloud](../../static/media/google-podcast.svg "Listen us on google podcast")](https://podcasts.google.com/)[![Listen us on soundcloud](../../static/media/soundCloud.svg "Listen us on soundcloud")](http://soundcloud.com/)
 
-<!-- \\\\\\[Наші випуски](/blog) -->
+<!-- \\\\\\\[Наші випуски](/blog) -->
 
 </br>
 
 </br>
-
-
 
 ## Стань нашим патроном:
 
