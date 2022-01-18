@@ -19,7 +19,7 @@ template: index-template
 </br>
 </br>
 
-**Слухайте нас:**
+## Слухайте нас:
 
 </br>
 
