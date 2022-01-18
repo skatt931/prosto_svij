@@ -14,7 +14,7 @@ template: contact-template
 
 
 
-Ми в соц-мережах:
+Просто свій подкаст в соц-мережах:
 
 Instagram: https://www.instagram.com/prostosvijpodcast/
 
