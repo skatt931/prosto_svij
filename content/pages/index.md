@@ -27,7 +27,7 @@ template: index-template
 
 </br>
 
-[![Listen us on soundcloud](../../static/media/google-podcast.svg "Listen us on google podcast")](https://podcasts.google.com/)[![Listen us on soundcloud](../../static/media/soundCloud.svg "Listen us on soundcloud")](http://soundcloud.com/)
+[![Listen us on soundcloud](../../static/media/google-podcast.svg "Listen us on google podcast")](https://podcasts.google.com/)[![Listen us on soundcloud](../../static/media/soundCloud.svg "Listen us on soundcloud")](https://soundcloud.com/prosto-svij)
 
 <!-- \\\\\\\[Наші випуски](/blog) -->
 
