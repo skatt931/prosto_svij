@@ -23,7 +23,7 @@ template: index-template
 
 </br>
 
-[![Listen us on spotify](../../static/media/spotify.svg "Listen us on spotify")](http://spotify.com/) [![Listen us on itunes](../../static/media/itunes.svg "Listen us on itunes")](https://podcasts.apple.com/us/podcast/просто-свій-подкаст-про-наш-світ/id1606011707)
+[![Listen us on spotify](../../static/media/spotify.svg "Listen us on spotify")](https://open.spotify.com/show/7dGtmWxDV1QXlfYxwd4j7x) [![Listen us on itunes](../../static/media/itunes.svg "Listen us on itunes")](https://podcasts.apple.com/us/podcast/просто-свій-подкаст-про-наш-світ/id1606011707)
 
 </br>
 
