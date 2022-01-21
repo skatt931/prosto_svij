@@ -2,10 +2,10 @@ module.exports = {
   siteMetadata: {
     title: `Просто свій`,
     author: {
-      name: `Ihor Kurnytskyi`,
-      summary: `Podcast about technologies, life, and everything in between.`,
+      name: `Ігор Курницький`,
+      summary: `Подкасти про світ та технології, життя та інші цікаві штуки.`,
     },
-    description: `A website with podcast information and information about technologies, life, and everything in between`,
+    description: `Сайт Просто Нашого Подкасту в якому ми зібрали для вас цікаві історії про наш світ, технології та все що між ними.`,
     siteUrl: `https://gatsbyglass.netlify.app`,
     social: {
       twitter: `skatt9311`,

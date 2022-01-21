@@ -24,8 +24,7 @@ const Header = ({ data }) => {
     <StyledHeader>
       <HeaderWrapper>
         <HeaderTitle>
-          <Link to="/">{site.siteMetadata.title}</Link>
-          {/* <AboutImageWrapper image={logoImg} alt="" /> */}
+          {/* <Link to="/">{site.siteMetadata.title}</Link> */}
         </HeaderTitle>
 
         <HeaderNavList>
