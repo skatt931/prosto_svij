@@ -37,6 +37,10 @@ const SEO = ({ description, lang, meta, title }) => {
           content: metaDescription,
         },
         {
+          name: 'verify-admitad',
+          content: '37fc826b75',
+        },
+        {
           property: `og:title`,
           content: title,
         },
