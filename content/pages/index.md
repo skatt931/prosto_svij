@@ -24,13 +24,29 @@ template: index-template
 
 </br>
 
-[![Listen us on spotify](../../static/media/spotify.svg "Spotify")](https://open.spotify.com/show/7dGtmWxDV1QXlfYxwd4j7x) [![Apple Podcasts](../../static/media/itunes.svg "Listen us on itunes")](https://podcasts.apple.com/us/podcast/просто-свій-подкаст-про-наш-світ/id1606011707)
-
-</br>
-
-[![Listen us on soundcloud](../../static/media/google-podcast.svg "Google podcast")](https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjEwNzU3ODY3NTMvc291bmRzLnJzcw)[![Soundcloud](../../static/media/soundCloud.svg "Listen us on soundcloud")](https://soundcloud.com/prosto-svij)
-
-<!-- \\\\\\\[Наші випуски](/blog) -->
+<div>
+    <div class="link-wrapper">
+        <a class='listen-us-link' href="https://open.spotify.com/show/7dGtmWxDV1QXlfYxwd4j7x" target="_blank"><img src="../../static/media/spotify.svg"
+        alt="Listen us on spotify"  /></a>
+    </div>
+    <div class="link-wrapper">
+        <a class='listen-us-link' href="https://podcasts.apple.com/us/podcast/просто-свій-подкаст-про-наш-світ/id1606011707
+        " target="_blank"><img src="../../static/media/itunes.svg"
+        alt="Listen us on apple podcasts"  /></a>
+    </div>
+    <div class="link-wrapper">
+        <a class='listen-us-link' href="https://podcasts.google.com/feed/aHR0cHM6Ly9mZWVkcy5zb3VuZGNsb3VkLmNvbS91c2Vycy9zb3VuZGNsb3VkOnVzZXJzOjEwNzU3ODY3NTMvc291bmRzLnJzcw" target="_blank"><img src="../../static/media/google-podcast.svg"
+        alt="Google podcast"  /></a>
+    </div>
+    <div class="link-wrapper">
+        <a class='listen-us-link' href="https://soundcloud.com/prosto-svij" target="_blank"><img src="../../static/media/soundCloud.svg"
+        alt="Listen us on SoundCloud"  /></a>
+    </div>
+    <div class="link-wrapper">
+        <a class='listen-us-link' href="https://castbox.fm/channel/id4755795?utm_campaign=ex_share_ch&utm_medium=exlink&country=ru" target="_blank"><img src="../../static/media/Castbox_Badge_Medium_Light@2x.png"
+        alt="Listen us on castbox"  /></a>
+    </div>
+<div>
 
 </br>
 
@@ -40,4 +56,7 @@ template: index-template
 
 </br>
 
-[![Підтримуйте нас на патреон](../../static/media/patreon1.svg "Підтримуйте нас на патреон")](https://www.patreon.com/bePatron?u=66578283)
+<div class="link-wrapper">
+    <a class='listen-us-link patreon-link' href="https://www.patreon.com/bePatron?u=66578283" target="_blank"><img src="../../static/media/patreon1.svg"
+    alt="Підтримуйте нас на патреон"  /></a>
+</div>

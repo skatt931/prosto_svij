@@ -57,10 +57,44 @@ const Intro = styled.div`
     /* text-transform: capitalize; */
     font-size: 1.15rem;
   }
+
+  & .link-wrapper {
+    display: inline-flex;
+  }
+
   & a {
     display: inline-block;
     margin-right: var(--size-400);
+    transition: 0.3s;
   }
+  
+  & .listen-us-link {
+    transition: 0.3s;
+    display: inline-flex;
+    height: 50px;
+    width: 180px;
+    & span {
+      height: 100%;
+      width: 100%;
+      background-image: none;
+      & span {
+        background-image: none !important;
+      }
+      & img {
+        border-radius: 9%;
+      }
+    }
+  }
+
+  & .listen-us-link.patreon-link {
+    width: auto;
+  }
+
+  & .listen-us-link:hover {
+    transition: 0.3s;
+    transform: scale(1.16667);
+  }
+
   & img {
     max-height: 50px;
   }
