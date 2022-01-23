@@ -67,11 +67,21 @@ const Intro = styled.div`
     margin-right: var(--size-400);
     transition: 0.3s;
   }
+
+  @media (max-width: 768px) {
+    .listen-us-link {
+      height: 40px !important;
+      width: 130px !important;
+    }
+  }
+  & .link-wrapper {
+    margin-bottom: var(--size-400);
+  }
   
   & .listen-us-link {
     transition: 0.3s;
     display: inline-flex;
-    height: 50px;
+    height: 45px;
     width: 180px;
     & span {
       height: 100%;
@@ -88,6 +98,7 @@ const Intro = styled.div`
 
   & .listen-us-link.patreon-link {
     width: auto;
+    height: 50px;
   }
 
   & .listen-us-link:hover {
