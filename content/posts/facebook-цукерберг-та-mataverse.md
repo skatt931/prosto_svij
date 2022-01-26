@@ -12,7 +12,7 @@ description: В другому випуску поговоримо про ста
 
 П.С.: розкажи другу і покажит нас, разом цікавіше 😉
 
-<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1199497672&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/prosto-svij" title="Просто Свій - Подкаст про наш світ" target="_blank" style="color: #cccccc; text-decoration: none;">Просто Свій - Подкаст про наш світ</a> · <a href="https://soundcloud.com/prosto-svij/e1-yak-zmni-prins-youtube-v-nash-svt" title="E1 Які Зміни Приніс YouTube В Наш Світ" target="_blank" style="color: #cccccc; text-decoration: none;">E1 Які Зміни Приніс YouTube В Наш Світ</a></div>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1203646051&color=%23fccccc&auto_play=false&hide_related=true&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/prosto-svij" title="Просто Свій - Подкаст про наш світ" target="_blank" style="color: #cccccc; text-decoration: none;">Просто Свій - Подкаст про наш світ</a> · <a href="https://soundcloud.com/prosto-svij/e2-facebook-tsukerberg-ta-metaverse" title="e2 Facebook, Цукерберг Та Metaverse" target="_blank" style="color: #cccccc; text-decoration: none;">e2 Facebook, Цукерберг Та Metaverse</a></div>
 
 ## Коротка історія Facebook
 
@@ -32,10 +32,6 @@ description: В другому випуску поговоримо про ста
 * Документальний фільм від Netflix: [Соціальна дилема](https://www.imdb.com/title/tt11464826/?ref_=nv_sr_srsg_0)
 * Художній фільм про створення facebook: [Соціальна мережа](https://www.imdb.com/title/tt1285016/?ref_=nv_sr_srsg_0)
 * [Стаття](https://lesk.com/mlesk/ksg97/ksg.html) про те скільки даних знаходитья в світі
-
-
-
-
 
 #### Якщо вам подобається наш подкаст і ви хочете щоб якомога більше людей почули про те як міняється наш світ, то підтриматуйте нас своїми вподобайками, коментарями та репостами в наших соц. мережах [Інстаграм](https://www.instagram.com/prosto_svij_podcast/) та [Фейсбук](https://www.facebook.com/groups/608828097078679). Тільки з вашою допомогою ми зможемо розвиватись та сторювати ще більше цікавого контенту і покращувати якість нашої роботи.
 
