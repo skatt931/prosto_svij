@@ -1,5 +1,5 @@
 ---
-title: Facebook, Цукерберг та Mataverse
+title: Facebook, Цукерберг та Metaverse
 date: 2022-01-26 11:16
 tags:
   - podcast
