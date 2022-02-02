@@ -270,6 +270,7 @@ const Intro = styled.div`
 
   & .listen-us-link.patreon-link {
     position: relative;
+    margin-right: 0;
     width: auto;
     height: 50px;
     -webkit-animation: shake-bottom 0.8s cubic-bezier(0.455, 0.030, 0.515, 0.955) 5s 1 both;

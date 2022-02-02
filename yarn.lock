@@ -6004,6 +6004,13 @@ gatsby-plugin-styled-components@^4.0.0:
   dependencies:
     "@babel/runtime" "^7.15.4"
 
+gatsby-plugin-twitter@^4.6.0:
+  version "4.6.0"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-twitter/-/gatsby-plugin-twitter-4.6.0.tgz#de382ab7ba55d33755d311e40e7a18068f488f4a"
+  integrity sha512-qMC1kjQUbeSG1XoZL/dj6CMZIkYBzTM9j8a651UrKmGAzrV2312yym8oYzQqfAwLnPrUbuRKLO55VDFcp7rJbQ==
+  dependencies:
+    "@babel/runtime" "^7.15.4"
+
 gatsby-plugin-typescript@^3.14.0:
   version "3.14.0"
   resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-3.14.0.tgz#5f079f59576f768025cad0d79feaf62c00812a96"
@@ -11480,6 +11487,11 @@ react-router@5.2.1:
     react-is "^16.6.0"
     tiny-invariant "^1.0.2"
     tiny-warning "^1.0.0"
+
+react-script-tag@^1.1.2:
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/react-script-tag/-/react-script-tag-1.1.2.tgz#be0fa3a22dfae8165d083f6bc1ff6f9799b20d44"
+  integrity sha512-4oR9ntvGfX4igiP77vK310ru5Oa77xO7CeYB3Xi9lu0qsikpGpK1Kq1WMFocvy8U4fQFq8ovtrZS/8adfCziFw==
 
 react-scroll-sync@^0.9.0:
   version "0.9.0"

@@ -69,7 +69,10 @@ const SEO = ({ description, lang, meta, title }) => {
           content: metaDescription,
         },
       ].concat(meta)}
-    />
+    >
+      {/* TikTok script for embeded videos */}
+      <script async src="https://www.tiktok.com/embed.js"/>
+    </Helmet>
   );
 };
 

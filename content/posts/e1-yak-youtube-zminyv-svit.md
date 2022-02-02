@@ -3,8 +3,9 @@ title: Історія і цікаві факти про YouTube
 date: 2022-01-19 17:43
 tags:
   - podcast
-  - podcast season 1
+  - season 1
   - episode 1
+  - youtube
 social_image: /media/rocket.jpg
 description: У цьому випуску ми спробуємо розібратися як змінився світ з
   приходом YouTube. Розповімо вам цікаві факти про платформу і пофантазуємо про
@@ -39,6 +40,6 @@ description: У цьому випуску ми спробуємо розібра
 * [Канал ім. Т.Г.Шевченка](https://www.youtube.com/channel/UC1Q2MLy0DEswY-1ZheTcYig)
 * [Загін Кіноманів](https://www.youtube.com/c/%D0%97%D0%B0%D0%B3%D1%96%D0%BD%D0%9A%D1%96%D0%BD%D0%BE%D0%BC%D0%B0%D0%BD%D1%96%D0%B2)
 
-## Підтримуйте Просто Свій Подкаст на [Patreon](https://www.patreon.com/bePatron?u=66578283 "Просто свій патреон"), тільки з вашою підтримкою ми зможемо розвивати наш контент і створювати більше цікавих подкастів для "просто своїх" слухачів.
+## Підтримуйте Просто Свій Подкаст на [Patreon](https://www.patreon.com/bePatron?u=66578283 "Просто свій патреон"), тільки з вашою підтримкою ми зможемо розвивати наш контент і створювати більше цікавих подкастів для "просто своїх" слухачів
 
 <a href="https://www.patreon.com/bePatron?u=66578283" data-patreon-widget-type="become-patron-button">Стань нашим патроном!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
