@@ -72,6 +72,8 @@ const SEO = ({ description, lang, meta, title }) => {
     >
       {/* TikTok script for embeded videos */}
       <script async src="https://www.tiktok.com/embed.js"/>
+      {/* Instagram script */}
+      <script async src="//www.instagram.com/embed.js"></script>
     </Helmet>
   );
 };
