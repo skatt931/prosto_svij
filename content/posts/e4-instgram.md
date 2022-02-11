@@ -1,5 +1,5 @@
 ---
-title: Про Instagram
+title: Про Instagram, інфлюенсерів та корпорації
 date: 2022-02-09 16:00
 tags:
   - podcast
