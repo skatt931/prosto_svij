@@ -74,6 +74,8 @@ const SEO = ({ description, lang, meta, title }) => {
       <script async src="https://www.tiktok.com/embed.js"/>
       {/* Instagram script */}
       <script async src="//www.instagram.com/embed.js"></script>
+      {/* Patreon script */}
+      <script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
     </Helmet>
   );
 };
